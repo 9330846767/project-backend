@@ -1,14 +1,14 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "a backend at my project code",
+  "description": "this is my first project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "javascript",
-    "backend"
+    "backend",
+    "javascript"
   ],
   "author": "sujit kumar yadav",
   "license": "ISC"
